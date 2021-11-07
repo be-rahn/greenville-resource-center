@@ -122,9 +122,4 @@ footer {
     text-align: center;
     font-size: 18px;
   }
-
-  .row {
-    display: flex;
-    justify-content: space-around;
-  }
 }
