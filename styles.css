@@ -110,8 +110,9 @@ h3 {
 /***** CONTACT *****/
 
 #picture {
-  width: 800px;
-  height: 720px;
+  margin-top: 40px;
+  width: 900px;
+  height: 820px;
 }
 
 /* Resize images */
