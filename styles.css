@@ -4,6 +4,10 @@ body {
   color: #191a19;
 }
 
+.background {
+  background-color: #191a19;
+}
+
 .nav-bar {
   background-color: #d8e9a8;
 }
@@ -34,6 +38,10 @@ h1 {
 }
 div {
   height: auto;
+}
+
+.light-mode {
+  color: #d8e9a8;
 }
 
 about .full-width {
@@ -68,6 +76,8 @@ h2 {
   text-align: center;
   padding: 42px;
   margin: 0 20px;
+  font-family: "Lora", serif;
+  line-height: 38px;
 }
 
 h3 {
