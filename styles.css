@@ -8,12 +8,12 @@ body {
   background-color: #191a19;
 }
 
-.nav-bar {
-  background-color: #d8e9a8;
+nav a {
+  color: #d8e9a8;
 }
 
 #main-body {
-  margin-top: 80px;
+  margin-top: 56px;
 }
 
 #custom-font {
