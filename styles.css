@@ -3,6 +3,12 @@ body {
   font-family: "Source Sans Pro", sans-serif;
   color: #191a19;
 }
+.logo {
+  text-align: center;
+  background-color: #000000;
+  padding: 20px;
+  margin-bottom: 30px;;
+}
 
 .background {
   background-color: #191a19;
@@ -32,8 +38,8 @@ h1 {
   text-align: center;
   font-family: "Rye", cursive;
   margin-bottom: 40px;
-  font-size: 70px;
-  padding: 0 20px;
+  font-size: 42px;
+  padding: 40px 0px;
 }
 div {
   height: auto;
@@ -49,7 +55,7 @@ about .full-width {
 
 about h2 {
   font-family: "Lora", serif;
-  font-size: 36px;
+  font-size: 28px;
   padding-left: 50px;
 }
 
