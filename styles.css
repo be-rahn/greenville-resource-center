@@ -21,7 +21,7 @@ nav a {
 }
 
 #main-body {
-  margin-top: 56px;
+  margin-top: 15px;
 }
 
 #custom-font {
@@ -29,7 +29,7 @@ nav a {
 }
 
 .main {
-  background-color: #d8e9a8;
+  background-color: #e3e6e9;
   padding-top: 40px;
   padding-bottom: 40px;
 }
@@ -48,7 +48,7 @@ div {
 }
 
 .light-mode {
-  color: #d8e9a8;
+  color: #e3e6e9;
 }
 
 about .full-width {
@@ -120,7 +120,7 @@ footer {
   text-align: center;
   padding: 40px;
   font-family: "Lora", serif;
-  background-color: #d8e9a8;
+  background-color: #e3e6e9;
 }
 .center {
   text-align: center;
