@@ -127,6 +127,10 @@ footer {
   width: 100%;
 }
 @media (max-width: 900px) {
+  body {
+    width: max-content;
+  }
+
   h1 {
     font-size: 48px;
     line-height: 1.5;
@@ -146,7 +150,7 @@ footer {
     font-size: 18px;
   }
   #logo {
-    width: 100%;
+    width: max-content;
     height: auto;
     display: flex;
     justify-content: center;
