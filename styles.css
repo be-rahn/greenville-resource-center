@@ -154,6 +154,7 @@ footer {
     height: auto;
     display: flex;
     justify-content: center;
-    margin: auto;
+    margin: none;
+    padding: none;
   }
 }
