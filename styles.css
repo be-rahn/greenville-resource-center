@@ -100,7 +100,8 @@ h3 {
 }
 
 #picture {
-  margin-top: 50px;
+  margin-top: 0px;
+  margin-bottom: 50px;
   display: flex;
   justify-content: center;
 }
