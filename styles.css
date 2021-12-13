@@ -4,6 +4,8 @@ body {
   color: #191a19;
   background: url(images/papertexture-brilon.jpg);
   background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
 }
 #logo {
   text-align: center;
@@ -33,7 +35,10 @@ nav a {
   background-color: e3e6e9;
 
   padding-top: 40px;
-  padding-bottom: 40px;
+  background: url(images/papertexture-brilon.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
 }
 
 /***** ABOUT #9b9b9b #828282 #bbc085 font-family: "Rye", cursive;*****/
@@ -135,13 +140,21 @@ footer {
   width: 100%;
 }
 @media (max-width: 900px) {
+  body {
+    background: url(images/papertexture-brilon.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+  }
+
   h1 {
-    font-size: 48px;
+    font-size: 30px;
     line-height: 1.5;
+    margin: 0px;
   }
 
   h2 {
-    font-size: 26px;
+    font-size: 22px;
     text-align: center;
   }
 
@@ -153,6 +166,7 @@ footer {
     text-align: center;
     font-size: 18px;
   }
+
   #logo {
     width: 100%;
     height: auto;
